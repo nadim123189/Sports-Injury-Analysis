@@ -9,7 +9,7 @@ A data analysis project that looks at who gets hurt playing sports and using spo
 * Age matters: ages 5 to 14 and 15 to 24 had the highest sports and recreation injury rates every year from 2013 to 2023.
 * Biggest in 2023: exercise equipment (482,886 injuries) and bicycles and accessories (405,688 injuries).
 * Most serious: ATVs, mopeds, and minibikes had the highest share of injuries ending in hospitalization or death on arrival (19.25%), with bicycles next at 14.82%.
-* Three clusters: KMeans split equipment into low risk, high volume but mostly treated and released, and high volume with many hospitalizations (mostly bicycles and exercise equipment).
+* Three clusters: KMeans split equipment into low risk, high volume but mostly treated and released, and high volume with many hospitalizations (bicycles, exercise equipment, and ATVs).
 * Concussions: boys football had the highest rate at 10.40 per 10,000 athletic exposures, and girls' sports ran higher than boys' overall.
 * Exposure and season: more games and practices meant more injuries, and preseason was the riskiest time of year (regression R squared of 0.54).
 * A simple age model was weak (R squared of 0.174), so age alone does not explain injury rates.
