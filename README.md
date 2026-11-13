@@ -40,8 +40,8 @@ Full links and notes are in `data/README.md`.
 ## How to Run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/sports-injury-analysis.git
-cd sports-injury-analysis
+git clone https://github.com/nadim123189/Sports-Injury-Analysis.git
+cd Sports-Injury-Analysis
 pip install -r requirements.txt
 python src/sports_product_injury_ed_visits.py
 ```
