@@ -51,9 +51,3 @@ Each chart opens in its own window as the script runs.
 ## Limitations
 
 The data has no geographic or income information, NEISS only counts injuries that reached an emergency department, and the three sources cover different years and populations, so they are best read side by side.
-
-## Team
-
-Adam Kwoh, Nadim-Marc El Achkar, and Henri Pulake
-
-[ONE OR TWO SENTENCES ON WHAT YOU PERSONALLY BUILT]
