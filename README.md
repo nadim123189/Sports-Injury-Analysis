@@ -55,3 +55,7 @@ python src/sports_product_injury_ed_visits.py
 ```
 
 Each chart opens in its own window as the script runs. The Excel workbook of NEISS tables is not included, so see `data/README.md` for how to set it up before running. The results and charts from our run are in the report and the `images/` folder.
+
+## Limitations
+
+The data has no geographic or income information, NEISS only counts injuries that reached an emergency department, and the three sources cover different years and populations, so they are best read side by side.
