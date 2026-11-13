@@ -54,7 +54,7 @@ pip install -r requirements.txt
 python src/sports_product_injury_ed_visits.py
 ```
 
-Each chart opens in its own window as the script runs. The Excel workbook of NEISS tables is not included, so see `data/README.md` for how to set it up before running. The results and charts from our run are in the report and the `images/` folder.
+Each chart opens in its own window as the script runs. The Excel workbook of NEISS tables is included in the data folder. 
 
 ## Limitations
 
